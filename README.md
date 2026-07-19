@@ -1,2 +1,4 @@
 # pytorch_for_deeplearning
-Work for the PyTorch for Deep Learning certificate program.
+Notebooks for the deeplearning.ai certificate program - PyTorch for Deep Learning.
+
+Notebooks are run in Kaggle workspace.
